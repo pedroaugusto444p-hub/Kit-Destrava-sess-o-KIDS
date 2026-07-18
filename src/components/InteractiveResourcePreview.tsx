@@ -14,7 +14,7 @@ const CAROUSEL_SLIDES = [
     subtitle: "Identificação de Sentimentos Lúdica",
     description: "Cartas terapêuticas coloridas e ilustrativas para ajudar a criança a identificar e expressar sentimentos complexos, vencendo a timidez ou a barreira verbal inicial.",
     type: "image",
-    imageUrl: "https://i.ibb.co/RGR48K2M/Captura-de-Tela-3.png",
+    imageUrl: "https://i.ibb.co/qMb4ZgWm/Captura-de-Tela-22.png",
     bullets: [
       "Design lúdico com expressões faciais simples e diretas",
       "Instruções fáceis para brincar e falar de sentimentos na sessão",
@@ -28,7 +28,7 @@ const CAROUSEL_SLIDES = [
     subtitle: "Mapeamento Visual de Frustração e Impulsividade",
     description: "Uma escala visual didática para ajudar a criança a mapear o nível de agitação física ou frustração, facilitando a identificação precoce de crises e comportamentos impulsivos.",
     type: "image",
-    imageUrl: "https://i.ibb.co/S7Vphxbr/Captura-de-Tela-4.png",
+    imageUrl: "https://i.ibb.co/Y72c9nQ1/Captura-de-Tela-23.png",
     bullets: [
       "Metáfora visual de fácil compreensão para crianças e responsáveis",
       "Estratégias lúdicas passo a passo para se acalmar (respirar, contar, afastar)",
@@ -42,7 +42,7 @@ const CAROUSEL_SLIDES = [
     subtitle: "Identificação de Pensamentos e Medos",
     description: "Um diário lúdico e ilustrativo desenvolvido para guiar a criança na identificação de pensamentos automáticos e sentimentos de medo, promovendo a reestruturação cognitiva de forma leve.",
     type: "image",
-    imageUrl: "https://i.ibb.co/8LrGxFLj/Captura-de-Tela-5.png",
+    imageUrl: "https://i.ibb.co/zV4HHKFv/Captura-de-Tela-25.png",
     bullets: [
       "Layout com balões de fala e ilustrações divertidas",
       "Espaço dedicado para desenhar e escrever o que está pensando",
@@ -56,7 +56,7 @@ const CAROUSEL_SLIDES = [
     subtitle: "Acordos e Rotinas Visuais para Casa",
     description: "Quadros de combinados visuais interativos para ajudar a estabelecer rotinas saudáveis e limites claros de comportamento junto às crianças e seus pais de forma estimulante.",
     type: "image",
-    imageUrl: "https://i.ibb.co/r2JphYV9/Captura-de-Tela-6.png",
+    imageUrl: "https://i.ibb.co/DDCxDSDc/Captura-de-Tela-26.png",
     bullets: [
       "Aumenta a colaboração da criança nas tarefas diárias",
       "Facilita o engajamento dos pais na aplicação dos combinados clínicos",
@@ -70,7 +70,7 @@ const CAROUSEL_SLIDES = [
     subtitle: "Entrevista Estruturada com Responsáveis",
     description: "Um roteiro refinado para conduzir as primeiras sessões de anamnese com os pais de forma tranquila, colhendo o histórico de desenvolvimento da criança de maneira estruturada.",
     type: "image",
-    imageUrl: "https://i.ibb.co/D2zwMBj/Captura-de-Tela-7.png",
+    imageUrl: "https://i.ibb.co/RphCpbyw/Captura-de-Tela-19.png",
     bullets: [
       "Perguntas cirúrgicas para investigar desenvolvimento físico, social e escolar",
       "Roteiro acolhedor que facilita o estabelecimento do rapport inicial com os pais",
@@ -84,10 +84,10 @@ const CAROUSEL_SLIDES = [
     subtitle: "Definição de Objetivos com a Criança",
     description: "Ferramenta lúdica (como mapa do tesouro ou caminho de conquistas) para co-criar metas terapêuticas simples junto à criança, incentivando a percepção de evolução e progresso.",
     type: "image",
-    imageUrl: "https://i.ibb.co/8DNfqGP5/Captura-de-Tela-8.png",
+    imageUrl: "https://i.ibb.co/ynnz66V9/Captura-de-Tela-20.png",
     bullets: [
       "Metodologia leve para transformar objetivos clínicos em desafios divertidos",
-      "Aumenta a motivação e o engajamento ativo da criança no processo",
+      "Aumenta a motivação e o engajamento active da criança no processo",
       "Auxilia a profissional a monitorar e documentar a evolução clínica"
     ]
   },
@@ -98,7 +98,7 @@ const CAROUSEL_SLIDES = [
     subtitle: "Dinâmicas para Desbloquear a Fala",
     description: "Estratégias de comunicação e dinâmicas lúdicas validadas para contornar silêncios difíceis, respostas curtas ou resistência, fortalecendo a aliança terapêutica sem pressão.",
     type: "image",
-    imageUrl: "https://i.ibb.co/gZ9GHTCP/Captura-de-Tela-9.png",
+    imageUrl: "https://i.ibb.co/HDG4674h/Captura-de-Tela-21.png",
     bullets: [
       "Intervenções passo a passo baseadas em jogos para quebrar a barreira do silêncio",
       "Estratégias lúdicas que de imediato trazem leveza e segurança para a sessão",
