@@ -327,7 +327,7 @@ export const KIT_OPTIONS: KitOption[] = [
     id: "basic",
     name: "Kit Básico",
     tagline: "+80 Recursos Essenciais",
-    price: 19.90,
+    price: 10.00,
     originalPrice: 47.90,
     ctaText: "Quero o kit básico agora",
     features: [
@@ -345,10 +345,10 @@ export const KIT_OPTIONS: KitOption[] = [
     id: "complete",
     name: "Kit Completo",
     tagline: "+160 Recursos + 5 Bônus Exclusivos",
-    price: 37.90,
+    price: 29.90,
     originalPrice: 114.90,
-    installments: "6x de R$ 7,45",
-    savings: 76.10,
+    installments: "6x de R$ 5,88",
+    savings: 84.10,
     popular: true,
     ctaText: "Quero o kit completo",
     features: [

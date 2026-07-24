@@ -110,7 +110,7 @@ export default function Pricing({ onOpenCheckout }: PricingProps) {
                 </p>
                 <div className="flex items-baseline gap-1">
                   <span className="text-lg font-extrabold text-gray-950">R$</span>
-                  <span className="text-4xl md:text-5xl font-black text-gray-900 tracking-tight">19,90</span>
+                  <span className="text-4xl md:text-5xl font-black text-gray-900 tracking-tight">10,00</span>
                 </div>
                 <p className="text-[11px] text-gray-500 font-bold">Pagamento único</p>
               </div>
@@ -185,13 +185,13 @@ export default function Pricing({ onOpenCheckout }: PricingProps) {
                 </p>
                 <div className="flex items-baseline gap-1">
                   <span className="text-lg font-extrabold text-teal-100">R$</span>
-                  <span className="text-4xl md:text-5xl font-black text-white tracking-tight">37,90</span>
+                  <span className="text-4xl md:text-5xl font-black text-white tracking-tight">29,90</span>
                 </div>
                 <p className="text-xs font-bold text-amber-300">
-                  Ou 6x de R$ 7,45
+                  Ou 6x de R$ 5,88
                 </p>
                 <p className="text-[11px] text-teal-100 font-semibold">Pagamento único • Acesso imediato</p>
-                <p className="text-xs text-amber-300 font-extrabold">Você economiza R$ 76,10</p>
+                <p className="text-xs text-amber-300 font-extrabold">Você economiza R$ 84,10</p>
               </div>
 
               {/* Bullet Features list complete */}

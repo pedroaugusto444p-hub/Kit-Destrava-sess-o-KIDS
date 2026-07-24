@@ -56,13 +56,13 @@ export default function UpsellModal({ isOpen, onClose, onAccept, onDecline }: Up
             <div className="flex items-center gap-3">
               {/* Old crossed out price */}
               <span className="text-[#f43f5e] font-bold line-through decoration-[#f43f5e] decoration-2 text-xs md:text-sm opacity-90">
-                R$37,90
+                R$24,90
               </span>
 
               {/* New Teal price */}
               <div className="flex items-baseline text-[#1ca296]">
                 <span className="text-lg font-extrabold mr-0.5">R$</span>
-                <span className="text-4xl md:text-5xl font-black tracking-tighter">27</span>
+                <span className="text-4xl md:text-5xl font-black tracking-tighter">14</span>
                 <span className="text-lg font-extrabold">,90</span>
               </div>
             </div>
